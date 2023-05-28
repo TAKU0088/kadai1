@@ -63,3 +63,20 @@ footer {
   height: 50px;
   background-color: #AAAAAA;
 }
+
+
+@media screen and (max-width: 768px) {
+
+  main {
+  display: block;
+  width: 100%;
+}
+
+.blog-item {
+  width: 90%;
+  margin-bottom: 20px;
+
+}
+
+
+}
